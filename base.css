@@ -10,26 +10,22 @@ body {
     margin: 0rem 0rem;
 }
 
+div.wrapper {
+    margin: 0rem;
+}
+
 div.title {
     margin: 0rem 0rem;
     padding: 1rem 1rem;
     text-align: left;
 }
 
-div.wrapper {
-    margin: 0rem;
-}
-
 div.text {
     background-color: #190909;
     color: #e7e5f7;
-    margin: 0rem 0rem 1rem 0rem;
-    padding: 0.1rem 0rem;
+    margin: 0rem 0rem 2rem 0rem;
+    padding: 0.1rem 1rem;
     border-radius: 1rem;
-}
-
-div.section {
-    padding: 0rem 1rem;
 }
 
 div.button_box{
@@ -57,6 +53,10 @@ h1 {
     text-align: left;
     margin: 0.5rem 0rem 0rem 0rem;
     color: #ececed;
+}
+
+h3 {
+    color: #bb6868;
 }
 
 h2 {
@@ -103,10 +103,7 @@ a.email {
 
 /* tablets and up */
 @media only screen and (min-device-width: 700px){
-    div.title {
-        margin: 0rem 5rem;
-    }
     div.wrapper {
-        margin: 0rem 5rem 4rem 5rem;
+        margin: 0rem 10rem 4rem 10rem;
     }
 }
