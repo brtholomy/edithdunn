@@ -55,10 +55,6 @@ h1 {
     color: #ececed;
 }
 
-h3 {
-    color: #bb6868;
-}
-
 h2 {
     font-size: 1.2rem;
     font-weight: normal;
@@ -66,6 +62,11 @@ h2 {
     text-align: left;
     margin: 0rem 0rem 1rem 0rem;
     color: #999;
+}
+
+h3 {
+    color: #bb6868;
+    font-size: 1rem;
 }
 
 h4.email {
