@@ -45,7 +45,7 @@ Like Facebook it will soon be a boomer wasteland.
 
 ## Experience vs. ability to learn
 
-Oftentiems the better candidate may not have all the skills you want right now, but in the long term it's better to have someone who is constantly learning than someone who believes they know enough.
+Oftentimes the better candidate may not have all the skills you want right now, but in the long term it's better to have someone who is constantly learning than someone who believes they know enough.
 
 ---
 
