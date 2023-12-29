@@ -28,6 +28,15 @@ div.text {
     border-radius: 1rem;
 }
 
+div.portfolio {
+    text-align: center;
+    background-color: #190909;
+    color: #e7e5f7;
+    margin: 2rem 0rem;
+    padding: 0.1rem 1rem 3rem 1rem;
+    border-radius: 1rem;
+}
+
 div.button_box{
     display: flex;
 }
@@ -43,7 +52,7 @@ div.button {
 }
 
 div.button.fixed{
-    width: 10rem;
+    width: 12rem;
     margin-right: 3rem;
 }
 
@@ -79,6 +88,11 @@ h4.email {
 
 img#logo {
     width: 20%;
+    margin: 1rem 0rem;
+}
+
+img.portfolio {
+    width: 80%;
     margin: 1rem 0rem;
 }
 
