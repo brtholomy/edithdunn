@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    font-family: monospace;
+    font-family: Courier, "Nimbus Mono PS", Consolas, monospace;
     font-size: 1rem;
     margin: 0rem 0rem;
 }
@@ -24,7 +24,7 @@ div.text {
     background-color: #190909;
     color: #e7e5f7;
     margin: 0rem 0rem 2rem 0rem;
-    padding: 0.1rem 1rem;
+    padding: 1rem 1rem;
     border-radius: 1rem;
 }
 
