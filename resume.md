@@ -1,7 +1,3 @@
-# Edith Dunn
-
-[ms.edith.dunn@gmail.com](mailto:ms.edith.dunn@gmail.com)
-
 ## Highlights
 
 * 5+ years experience in high-profile art direction and creative consultation
