@@ -1,9 +1,8 @@
 ## Highlights
 
-* 5+ years in high-profile art direction and project management
-* Taste informed by the NYC fashion and LA interior design industries
+* 5+ years in art direction and project management
 * Illustrator for web, print, and fashion: my designs have been sold in *Urban Outfitters* and *Nasty Gal*
-* Experienced manager of a distributed team
+* Taste informed by the NYC fashion and LA interior design industries
 
 ## Client Manager, [Logistis for Designers](https://www.logistis.design/)
 
