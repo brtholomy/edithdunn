@@ -3,13 +3,13 @@
 * 5+ years in high-profile art direction and project management
 * Taste informed by the NYC fashion and LA interior design industries
 * Illustrator for web, print, and fashion: my designs have been sold in *Urban Outfitters* and *Nasty Gal*
-* Experienced manager of a distributed team: I keep the wheels moving and pick up the slack
+* Experienced manager of a distributed team
 
 ## Client Manager, [Logistis for Designers](https://www.logistis.design/)
 
 ### 2023 April - Present
 
-* Consultation and financial analysis for our highest-tier interior designers: profit and loss analysis, industry benchmark evaluation, operations and business strategy, tax liability
+* Consultation and financial analysis for our highest-tier interior designers: profit and loss analysis, industry benchmark evaluation, operations and business strategy
 
 * Project management: efficient delegation, prioritization, and tracking for multiple simultaneous projects
 
@@ -33,9 +33,7 @@
 
 * Design and trial of original content for business strategy consulting
 
-* Facilitating workshops: logistics support and communication
-
-* Recruiting assistant manager: discovering expertise in the small business and startup scene of NYC. Responsible for initial interviews, quantized reports, maintaining talent pool.
+* Recruiting assistant manager: discovering expertise in the small business and startup scene of NYC
 
 ## Patent Clerk, [MIT Office of Sponsored Programs](https://ras.mit.edu/)
 
@@ -58,8 +56,9 @@
 * Superior color sense refined by an advanced knowledge of color theory
 * Obsession with form
 * Proven talent for project management: ability to think critically combined with empathetic communication
-* High emotional EQ coupled with small business sense
 * Expertise in Adobe and Affinity Suites
+* Blendr and the rendering toolchain
+* Experienced in prompt optimization for AI generated content
 
 ## Education
 
