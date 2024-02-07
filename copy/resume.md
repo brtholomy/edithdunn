@@ -4,6 +4,6 @@
 +	Consultation for interior designers: profit and loss analysis, industry benchmark evaluation, operations and business strategy
 
 
-+	Website and branding development
-+	Design for scholarly and professional books on critical theory, neuroscience, and meditation
++   Product and workshop design for academic and professional consultancy
++	Design for books on critical theory and neuroscience
 +	Illustration of technical subjects in neuroscience
