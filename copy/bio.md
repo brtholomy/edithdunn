@@ -11,3 +11,9 @@ In my last position, the manager who was supposed to train me was fired almost i
 I've developed my own recruiting process by examining unconscious communication, accessible via associative techniques developed in collaboration with an NYC psychoanalyst and neuroscientist.
 
 I'm an experienced illustrator and UX designer: much of my current role revolves around refining the customer experience for creative types who dislike complex software.
+
+---
+
+* 5+ years in art direction and project management in NYC and LA startups
+* Intuitive design sense fastidiously applied to UX and product design
+* Critical evaluation guided by empathetic communication
