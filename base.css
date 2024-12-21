@@ -41,12 +41,12 @@ div.wrapper {
     padding: 1rem 1rem;
 }
 
-div.title {
+div.imgs {
     margin: 0rem 0rem;
     text-align: center;
 }
 
-div.imgs {
+div.title {
     margin: 0rem 0rem;
     text-align: center;
 }
@@ -117,5 +117,8 @@ li {
     }
     p.email {
         font-size: 1.1rem;
+    }
+    div.title {
+        margin: 1rem 0rem;
     }
 }
